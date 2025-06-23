@@ -234,6 +234,6 @@ kubectl apply -f deploy/kubernetes/
 ## Contact Information 📧
 
 - Project Maintainer: [Ivan Huang]
-- Email: [[saucyking3@gmail.com](https://www.linkedin.com/in/huang0105/)]
-- Project Link: [[https://github.com/Ivanhuang3/foodmap2](https://github.com/Ivanhuang3/FoodMap2-Engilsh-Version)]
+- Email: [https://www.linkedin.com/in/huang0105]
+- Project Link: [https://github.com/Ivanhuang3/FoodMap2-Engilsh-Version]
   
